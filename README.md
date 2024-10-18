@@ -1,6 +1,5 @@
 ## Applicant Introduction
-Hi, I'm Kush Sahu, a Frontend Developer and enthusiast skilled in javascript and React js, I'm always eager to learn and innovate! LinkedIn.
-readme_content = """
+Hi, I'm Kush Sahu, a Frontend Developer and enthusiast skilled in javascript and React js, I'm always eager to learn and innovate! 
 # Weather Monitoring System
 
 This project is a real-time weather monitoring system built using React.js and the OpenWeatherMap API. It displays current weather data, including temperature, humidity, and other relevant weather conditions, for multiple cities. The data is updated at regular intervals, and users can search for additional cities.
