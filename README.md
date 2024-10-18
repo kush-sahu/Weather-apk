@@ -1,5 +1,7 @@
+
 ## Applicant Introduction
-Hi, I'm Kush Sahu, a Frontend Developer and enthusiast skilled in javascript and React js, I'm always eager to learn and innovate! 
+Hi, I'm Kush Sahu, a Frontend Developer and enthusiast skilled in JavaScript and React.js. I'm always eager to learn and innovate!
+
 # Weather Monitoring System
 
 This project is a real-time weather monitoring system built using React.js and the OpenWeatherMap API. It displays current weather data, including temperature, humidity, and other relevant weather conditions, for multiple cities. The data is updated at regular intervals, and users can search for additional cities.
@@ -36,9 +38,31 @@ This project is a real-time weather monitoring system built using React.js and t
 4. **WeatherCharts**: 
    - A placeholder component for future weather data visualizations.
 
-## API Key
+## How to Run the Project
 
-To use this project, you need an API key from OpenWeatherMap. Insert your key in the `WeatherDataFetcher.jsx` file:
+### 1. Clone the repository
+```
+git clone https://github.com/your-username/weather-monitoring-system.git
+cd weather-monitoring-system
+```
 
-```js
-const apiKey = 'YOUR_API_KEY';  // Replace with your OpenWeatherMap API Key
+### 2. Install dependencies
+Make sure you have Node.js installed, then run:
+```
+npm install
+```
+
+
+
+### 3. Start the Development Server
+```
+npm run dev
+```
+
+This will start the project in development mode and open it in your browser at `http://localhost:3000`.
+
+## Future Improvements
+
+- Add more detailed weather metrics (e.g., wind speed, precipitation).
+- Implement data visualizations using charting libraries like Chart.js or D3.js.
+- Add error handling for invalid city names.
